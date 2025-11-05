@@ -1,0 +1,21 @@
+
+{
+    "hidden_dims": [512, 128],
+    "slice_emb_dim": 16,
+    "coef_fe": 0.1,
+    "training_steps": 10000,
+    "lr": 0.001,
+    "seed": 2025,
+    "patience": 200,
+    "lambda_dice": 0.9,
+    "alpha_reg": 0.9,
+    "mid_channel": 200,
+    "save_path": "./results_her2",
+    "use_type": "train", 
+    "normalize": 100,
+    "beta_coord":0.2,
+    "alpha_poisson": 5,
+    "lambda_feature": 1,
+    "gamma_feature": 2
+}
+
