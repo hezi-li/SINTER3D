@@ -24,7 +24,7 @@ pip install -r requirements.txt
 
 ## Tutorials
 We provided comprehensive tutorials for using SINTER3D.Please click on different tutorials to obtain more details.
-#### [tutorial 1](Tutorials\demo_DLPFC_73-76.ipynb)
+#### [tutorial 1](Tutorials\demo_mouse_brain_3D.ipynb)
 #### [tutorial 2](Tutorials\demo_DLPFC_73-76.ipynb)
 #### [tutorial 3](Tutorials\demo_Drosophila.ipynb)
 #### [tutorial 4](Tutorials\demo_human_heart_3d.ipynb)
@@ -42,3 +42,4 @@ The spatial transcriptomics data are available from https://data.mendeley.com/da
 
 
 The spatial transcriptomics data are publicly available at https://zenodo.org/record/4751624. The breast cancer dataset profiled by 10x Genomics Chromium platform is available at https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE176078.
+
