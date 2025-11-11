@@ -9,10 +9,16 @@ SINTER3D learns the coordinated spatial distribution patterns of all genes withi
 
 
 ## Installation
-``` 
+```
 conda create -n SINTER3D_env python=3.8.19
+``` 
+```
 conda activate SINTER3D_env
-cd SINTER3D-master 
+``` 
+```
+cd SINTER3D-master
+``` 
+```
 pip install -r requirements.txt
 ``` 
 
