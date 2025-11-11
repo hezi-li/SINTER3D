@@ -23,8 +23,7 @@ pip install -r requirements.txt
 ``` 
 
 ## Tutorials
-### We provided comprehensive tutorials for using SINTER3D.
-### Please click on different tutorials to obtain more details.
+We provided comprehensive tutorials for using SINTER3D.Please click on different tutorials to obtain more details.
 #### [tutorial 1](Tutorials\demo_DLPFC_73-76.ipynb)
 #### [tutorial 2](Tutorials\demo_DLPFC_73-76.ipynb)
 #### [tutorial 3](Tutorials\demo_Drosophila.ipynb)
