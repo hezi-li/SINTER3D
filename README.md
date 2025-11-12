@@ -3,7 +3,7 @@
 ### SINTER3D is the first implicit neural representation-based framework for joint whole-transcriptome 3D interpolation. 
 
 
-![Alt text](SINTER3D-master/Tutorials/SINTER3D_Final_1.jpg)
+![Alt text](SINTER3D/SINTER3D-master/Tutorials/SINTER3D_Final_1.jpg)
 
 SINTER3D learns the coordinated spatial distribution patterns of all genes within a unified framework, thereby supporting gene expression queries at arbitrary 3D coordinates. Furthermore, the framework enables joint 3D spatial domain identification for multi-section data and facilitates cell type deconvolution for low-resolution spatial transcriptomics data when integrated with single-cell reference data. The core innovation of SINTER3D lies in leveraging the implicit neural representation framework to learn a continuous mapping from spatial coordinates to gene expression, accurately capturing cross-section gene expression evolution and spatial structural variation patterns.
 
@@ -24,11 +24,11 @@ pip install -r requirements.txt
 
 ## Tutorials
 We provided comprehensive tutorials for using SINTER3D.Please click on different tutorials to obtain more details.
-#### [tutorial 1](SINTER3D-master/Tutorials/demo_mouse_brain_3D.ipynb)
-#### [tutorial 2](SINTER3D-master/Tutorials/demo_DLPFC_73-76.ipynb)
-#### [tutorial 3](SINTER3D-master/Tutorials/demo_Drosophila.ipynb)
-#### [tutorial 4](SINTER3D-master/Tutorials/demo_human_heart_3d.ipynb)
-#### [tutorial 5](SINTER3D-master/Tutorials/demo_her2_breast_cancer.ipynb)
+#### [tutorial 1](SINTER3D/SINTER3D-master/Tutorials/demo_mouse_brain_3D.ipynb)
+#### [tutorial 2](SINTER3D/SINTER3D-master/Tutorials/demo_DLPFC_73-76.ipynb)
+#### [tutorial 3](SINTER3D/SINTER3D-master/Tutorials/demo_Drosophila.ipynb)
+#### [tutorial 4](SINTER3D/SINTER3D-master/Tutorials/demo_human_heart_3d.ipynb)
+#### [tutorial 5](SINTER3D/SINTER3D-master/Tutorials/demo_her2_breast_cancer.ipynb)
 
 
 ## Data availability
