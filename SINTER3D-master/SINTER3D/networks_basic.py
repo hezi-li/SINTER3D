@@ -114,8 +114,7 @@ class DeconvNet(nn.Module):
                 slice_label,
                 basis,
                 c,
-                step,
-                reglass
+                step
                 ):
         # encoder
         self.node_feats = node_feats
@@ -193,4 +192,5 @@ class DeconvNet(nn.Module):
         # 解码
         reconstructed = self.decoder(Z)
         
+
         return Z, beta, alpha, reconstructed
