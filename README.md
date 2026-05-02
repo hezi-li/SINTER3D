@@ -41,3 +41,6 @@ The Drosophila embryo Stereo-seq dataset is publicly available at (https://db.cn
 The spatial transcriptomics data are available from https://data.mendeley.com/datasets/dgnysc3zn5/1. The human embryonic heart dataset profiled by 10x Genomics Chromium platform is available at https://data.mendeley.com/datasets/mbvhhf8m62/2.
 
 The spatial transcriptomics data are publicly available at https://zenodo.org/record/4751624. The breast cancer dataset profiled by 10x Genomics Chromium platform is available at https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE176078.
+The single-cell-resolution mouse brain spatial transcriptomics dataset generated using the STARmap PLUS platform is available through the Single Cell Portal 
+(SCP1375; https://singlecell.broadinstitute.org/single_cell/study/SCP1375)  
+
