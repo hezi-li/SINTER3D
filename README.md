@@ -24,11 +24,11 @@ pip install -r requirements.txt
 
 ## Tutorials
 We provided comprehensive tutorials for using SINTER3D.Please click on different tutorials to obtain more details.
-#### [tutorial 1](SINTER3D-master/demo_mouse_brain_3D.ipynb)
-#### [tutorial 2](SINTER3D-master/demo_DLPFC_73-76.ipynb)
-#### [tutorial 3](SINTER3D-master/demo_Drosophila.ipynb)
-#### [tutorial 4](SINTER3D-master/demo_human_heart_3d.ipynb)
-#### [tutorial 5](SINTER3D-master/demo_her2_breast_cancer.ipynb)
+#### [tutorial 1](SINTER3D-master/Tutorials/demo_mouse_brain_3D.html)
+#### [tutorial 2](SINTER3D-master/Tutorials/demo_DLPFC_73-76.html)
+#### [tutorial 3](SINTER3D-master/Tutorials/demo_Drosophila.html)
+#### [tutorial 4](SINTER3D-master/Tutorials/demo_human_heart_3d.html)
+#### [tutorial 5](SINTER3D-master/Tutorials/demo_her2_breast_cancer.html)
 
 
 ## Data availability
