@@ -1,0 +1,17 @@
+
+{
+    "hidden_dims": [512, 128],
+    "slice_emb_dim": 16,
+    "training_steps": 10000,
+    "lr": 0.001,
+    "seed": 2025,
+    "patience": 200,
+    "mid_channel": 200,
+    "save_path": "./results_3D_fly",
+    "use_type": "train", 
+    "normalize": 100,
+    "alpha_poisson": 1,
+    "lambda_feature": 4,
+    "gamma_feature": 1
+}
+

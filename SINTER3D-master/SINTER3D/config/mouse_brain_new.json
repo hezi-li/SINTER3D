@@ -1,0 +1,18 @@
+
+{
+    "hidden_dims": [512, 128],
+    "slice_emb_dim": 16,
+    "lr": 0.001,
+    "seed": 2025,
+    "patience": 200,
+    "training_steps": 10000,
+    "mid_channel": 200,
+    "save_path": "./mouse_brain",
+    "use_type": "train",
+    "normalize": 100,
+    "coord_emb_dim": 64,  
+    "num_freqs": 6,
+    "alpha_poisson": 20,
+    "lambda_feature": 2,
+    "gamma_feature": 4
+}

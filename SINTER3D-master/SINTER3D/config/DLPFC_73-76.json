@@ -1,0 +1,15 @@
+{
+    "hidden_dims": [512, 128],
+    "slice_emb_dim": 16,
+    "training_steps": 7000,
+    "lr": 0.0001,
+    "seed": 2022,
+    "patience": 200,
+    "mid_channel": 200,
+    "save_path": "./results_DLPFC",
+    "use_type": "train",
+    "normalize": 100,
+    "alpha_poisson": 5,
+    "lambda_feature": 4,
+    "gamma_feature": 3
+}
